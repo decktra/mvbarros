@@ -1,0 +1,148 @@
+I"g&<section class="home-slider owl-carousel">
+  <div class="slider-item" style="background-image:url(assets/img/bg_1.jpg);">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
+        <div class="col-md-7 ftco-animate">
+          <span class="subheading">Coaching sin Fronteras</span>
+          <h1 class="mb-4">Promueve tu desarrollo</h1>
+          <p><a href="servicios.html" class="btn btn-primary px-4 py-3 mt-3">Conócenos</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="slider-item" style="background-image:url(assets/img/bg_2.jpg);">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
+        <div class="col-md-7 ftco-animate">
+          <span class="subheading">Coaching sin Fronteras</span>
+          <h1 class="mb-4">Tu impulso es mi objetivo</h1>
+          <p><a href="servicios.html" class="btn btn-primary px-4 py-3 mt-3">Nuestros servicios</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container">
+  
+    &lt;div class="row mt-5 d-flex justify-content-around pr-md-4 ftco-animate&gt;
+      <div class="col-md-3">
+        <div class="services text-center">
+          <div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-collaboration"></span></div>
+          <div class="text media-body">
+            <h3>Organization</h3>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="services text-center">
+          <div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-analysis"></span></div>
+          <div class="text media-body">
+            <h3>Risk Analysis</h3>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="services text-center">
+          <div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-search-engine"></span></div>
+          <div class="text media-body">
+            <h3>Marketing Strategy</h3>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="services text-center">
+          <div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-handshake"></span></div>
+          <div class="text media-body">
+            <h3>Capital Market</h3>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+<p>&lt;/div&gt;
+&lt;/div&gt;</p>
+<section class="ftco-intro ftco-no-pb img" style="background-image: url(assets/img/bg_1.jpg);">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-9 col-md-8 d-flex align-items-center heading-section heading-section-white ftco-animate">
+        <h2 class="mb-3 mb-md-0">Si desea más información, visite nuestra página de contacto.</h2>
+      </div>
+      <div class="col-lg-3 col-md-4 ftco-animate">
+        <p class="mb-0"><a href="contacto.html" class="btn btn-white py-3 px-4">CONTACTO</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="ftco-section testimony-section">
+  <div class="container">
+    <div class="row justify-content-center mb-5">
+      <div class="col-md-8 text-center heading-section ftco-animate">
+        <h2 class="mb-4">Testimonios</h2>
+      </div>
+    </div>
+    <div class="row ftco-animate justify-content-center">
+      <div class="col-md-12">
+        <div class="carousel-testimony owl-carousel">
+          <div class="item">
+            <div class="testimony-wrap d-flex">
+              <div class="user-img" style="background-image: url(assets/img/person_1.jpg)">
+              </div>
+              <div class="text pl-6">
+                <span class="quote d-flex align-items-center justify-content-center">
+                  <i class="fas fa-quote-left"></i>
+                </span>
+                <p>Hablar de terapia para mí no sería suficiente, porque en el tiempo que estuve yendo a mis consultas descubrí que podía ser una persona nueva, una persona con grandes aprendizajes y muchas experiencias que me han enseñado a vivir de otra manera, a afrontar las dificultades con otra visión, a controlarme a mí misma en ocasiones en las que hubiese reaccionado de muy mala manera. En un principio fue terapia de pareja, la cual en mi opinión fue fructífera ya que a pesar de estar divorciada en la actualidad puedo decir que se llevó un proceso en calma de la mano de Atenea, luego del divorcio se dieron terapias individuales que me llevaron a mejorar como persona y a tener un aprendizaje de vida.</p>
+                <p class="name">MARÍA URBINA</p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="testimony-wrap d-flex">
+              <div class="user-img" style="background-image: url(assets/img/person_2.jpg)">
+              </div>
+              <div class="text pl-4">
+                <span class="quote d-flex align-items-center justify-content-center">
+                  <i class="fas fa-quote-left"></i>
+                </span>
+                <p>Hace un año me encontraba en una relación de pareja en la cual existían peleas frecuentes, por lo cual decidimos buscar ayuda terapéutica; fue entonces cuando conocí a Atenea. Desde el inicio de la terapia surgió el vinculo terapeuta-paciente, en cada consulta nos hacía ver en qué nos equivocábamos y nos daba herramientas para mejorar la comunicación. Sin embargo, luego de varios meses en terapia, se tomó la decisión de terminar la relación. Continué con la terapia individual y fue allí cuando entendí que para estar en una relación de pareja, primero hay que aceptarse como es, aprenderse a amar, a reconocer sus defectos y virtudes, a quererse antes de querer a otra persona y sobretodo entender que somos seres independientes y como tal no debemos caer en una dependencia emocional. Hoy en día le doy gracias a Dios por haberme cruzado en mi camino a un Ángel con el nombre de ATENEA. Sin duda alguna, sin su ayuda no hubiese afrontado el dolor que produce una separación y sobretodo a valorarse primero a uno mismo antes que valorar a los demás. Por todo lo que me has ayudado, hoy te doy mil gracias y espero seguir contando con tu ayuda profesional, eres una excelente psicóloga.</p>
+                <p class="name">VERÓNICA CASTRO</p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="testimony-wrap d-flex">
+              <div class="user-img" style="background-image: url(assets/img/person_3.jpg)">
+              </div>
+              <div class="text pl-4">
+                <span class="quote d-flex align-items-center justify-content-center">
+                  <i class="fas fa-quote-left"></i>
+                </span>
+                <p>Nunca pensé necesitar una psicóloga. Dios es grande, di contigo. Desespero, dolor y la bendita (no maldigo) pregunta: Qué hago? Me escuchaste, me oíste, me enfrentaste a mis miedos, mis temores, a que amara lo que el espejo reflejara. Amarme, anteponer mis necesidades a la de los demás. Conocí cosas de mi que no sabía que existían. Algo tan sencillo como reír a mi me costaba y en terapia entendí que la vida es un chiste. Querida licenciada, gracias por ayudarme, por guiarme a encontrar mi tranquilidad, mi paz, la risa y saber de lo que se trata amar.</p>
+                <p class="name">LAURA LEMUS</p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="testimony-wrap d-flex">
+              <div class="user-img" style="background-image: url(assets/img/person_4.png)">
+              </div>
+              <div class="text pl-4">
+                <span class="quote d-flex align-items-center justify-content-center">
+                  <i class="fas fa-quote-left"></i>
+                </span>
+                <p>Acudí a Atenea luego de visitar múltiples psiquiatras y psicólogos, con los cuales no me sentí nunca a gusto puesto que éstos sólo realizaban diagnósticos que para mi eran vacíos o carentes de criterio o simplemente me medicaban y eso era lo que hacía que los abandonara, no hay peor decepción que buscar ayuda por un problema, y simplemente sentir que alguien te trata por salir del paso… Con Atenea es completamente DIFERENTE! Me enseñó a reconocer mis emociones, me dio técnicas para manejarlas y tener mejor feedback con mi entorno, me enseñó a auto-reconocerme y partiendo de allí a desenvolverme en la sociedad, me ayudó a reconocer mis miedos y a poder enfrentarlos! Es altamente profesional pero a la vez jovial y cercana, no te sientes que quiere salir del paso contigo, si no que trata de ayudarte! Y aunque aun hay cosas por mejorar y muchas técnicas enseñadas que poner en práctica, puedo asegurarles que soy una Ana antes de conocerla y otra después! Y un super plus (valga la redundancia) es sexóloga! Hay ciertos detalles y técnicas que me ayudaron en mi relación para mejorarla! Así que está recomendada con los ojos cerrados por mi persona, no se arrepentirán.</p>
+                <p class="name">ANA VERA</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+:ET

@@ -1,0 +1,61 @@
+I"j<section class="ftco-section">
+  <div class="container">
+    <div class="row d-flex">
+      <div class="col-md-6 order-md-last wrap-about align-items-stretch">
+        <div class="wrap-about-border">
+          <div class="img" style="background-image: url(/assets/img/about.jpg); border"></div>
+          <div class="text">
+            <h3>Sobre Mí</h3>
+            <p>Soy, también, esposa y mamá y disfruto escribiendo literatura infantil  e ilustrándola; este impulso creativo lo derramo a través de  microcuentos que publico frecuentemente por mi twitter: @MvBarrosDe.</p>
+            <p>Puede descargar mis libros haciendo click</p>
+            <p><a href="http://www.librosenred.com/autores/mariavirginiabarros.html" class="btn btn-primary py-3 px-4">AQUÍ</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 wrap-about pr-md-4 ftco-animate">
+        <h2 class="mb-4">Sobre Mí</h2>
+        <p>Soy María Virginia Barrós. Tengo la fortuna de haber escogido por oficio  el coaching porque la actividad que más  me agrada hacer en la vida es la de ayudar a otros a descubrir sus  objetivos y metas, reconocer sus  brechas e inquietudes, ampliar sus distinciones,  indagar sobre sus soluciones  y generar innovación  para abordar cada una de éstas con éxito.</p>
+        <p>Estoy certificada como Coach Ontológico y soy licenciada en Psicología con una Maestría en Lingüística, carreras que hacen perfecta armonía  y que han permitido que desarrolle una  alquimia propia para entender global y sistémicamente a mis coachees. Mi trabajo en el área  se inició en el espacio corporativo con el personal ejecutivo y gerencial en empresas renombradas de los sectores: financiero, telecomunicaciones, consumo masivo y otros, y  ahora se ha diversificado hacia las áreas de vida que necesite cada coachee.</p>
+        <p>También he sido profesora universitaria dictando materias de Psicología Cognitiva, Psicología de la Educación y Lingüística, lo que  fortalece mi visión del aprendizaje humano, sus giros,  obstáculos  y  formas de enfrentarlos eficientemente.</p>
+        <p>Otros cursos han añadido color a mi formación,  permitiéndome extender los horizontes: “Balanced Score Card”, “Comunicación Corporativa” y  especialmente la formación en “Inteligencia Migratoria” dictada por el Dr. Harry Czsechowicz.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container mt-5">
+  <div class="row d-flex justify-content-around ftco-animate">
+    <div class="col-md-3">
+      <div class="services text-center">
+        <div class="icon mt-2 d-flex justify-content-center align-items-center"><i class="fas fa-skype fa-2x"></i></div>
+        <div class="text media-body">
+          <p>Las sesiones son  por Skype y funcionan como si fueran presenciales.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="services text-center">
+        <div class="icon mt-2 d-flex justify-content-center align-items-center"><i class="fas fa-clock-o fa-2x"></i></div>
+        <div class="text media-body">
+          <p>Cada sesión tiene una duración de 45min.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="services text-center">
+        <div class="icon mt-2 d-flex justify-content-center align-items-center"><i class="fas fa-mail-forward fa-2x"></i></div>
+        <div class="text media-body">
+          <p>Se sugieren por lo menos 10 sesiones para verificar avances.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="services text-center">
+        <div class="icon mt-2 d-flex justify-content-center align-items-center"><i class="fas fa-line-chart fa-2x"></i></div>
+        <div class="text media-body">
+          <p>La ventaja competitiva de este  trabajo es  la excelente  calidad a un precio alcanzable.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+:ET

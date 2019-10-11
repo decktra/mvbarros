@@ -1,0 +1,45 @@
+I"J<section class="ftco-section">
+  <div class="container">
+    <div class="row justify-content-center mb-5 pb-2">
+      <div class="col-md-8 text-center heading-section ftco-animate">
+        <h2 class="mb-4">Mis Servicios</h2>
+        <p>Ofrezco 5 tipos de coaching.</p>
+      </div>
+    </div>
+    <div class="row no-gutters">
+      <div class="col-lg-4 d-flex">
+        <div class="services-2 noborder-left text-center ftco-animate">
+          <div class="icon my-2 d-flex justify-content-center align-items-center">
+            <img src="/assets/img/serv1.jpg" class="img-thumbnail" />
+          </div>
+          <div class="text media-body">
+            <h3>Consulta Psicológica</h3>
+            <p>Modalidad Individual. Temas:</p>
+            <p>Depresión, ansiedad, ataques de pánico, estrés, dificultad para manejar estados emocionales, dificultades en las relaciones interpersonales, apatía, decisiones desacertadas, perdón, duelo, búsqueda de pareja, autoestima, inseguridades,  asuntos familiares no resueltos, asesoría en técnicas de seducción, técnicas de comunicación, inteligencia emocional.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 d-flex">
+        <div class="services-2 text-center ftco-animate">
+          <div class="icon my-2 d-flex justify-content-center align-items-center"><i class="fas fa-venus-mars fa-4x"></i></div>
+          <div class="text media-body">
+            <h3>Consulta Sexológica</h3>
+            <p>Modalidad Individual y en Pareja. Temas:</p>
+            <p>Eyaculación precoz, dificultades de erección, anorgasmia, eyaculación retardada, dificultades de lubricación, bajo deseo sexual, vaginismo, incompatibilidades en la frecuencia, inexperiencia sexual, falta de compatibilidad sexual, rutina sexual, problemas en la comunicación sexual, inquietudes sobre masturbación masculina y femenina, inquietudes en las fantasías sexuales, diversidad sexual, aceptación de la orientación sexual, identidad sexual.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 d-flex">
+        <div class="services-2 text-center ftco-animate">
+          <div class="icon my-2 d-flex justify-content-center align-items-center"><i class="fas fa-users fa-4x"></i></div>
+          <div class="text media-body">
+            <h3>Consulta de Pareja</h3>
+            <p>Modalidad Individual y en Pareja. Temas:</p>
+            <p>Discusiones, agresiones, infidelidades, dificultades en la comunicación, falta de conexión emocional, bajo interés erótico,  dificultades en la repartición de tareas, intervención de terceros, miedos, dificultad para poner límites, intervención en crisis, manejo de separaciones, inteligencia emocional de la pareja, mal manejo del tiempo libre, venganzas, falta de compromiso.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+:ET
