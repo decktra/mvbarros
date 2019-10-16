@@ -9,7 +9,7 @@
       {% for post in site.posts limit:3 %}
         <div class="col-md-4 ftco-animate">
           <div class="blog-entry">
-              <a href="{{ post.url }}" class="block-20 d-flex align-items-end" style="background-image: url('assets/img/posts/{{ post.img }}.jpg');">
+              <a href="{{ post.url }}" class="block-20 d-flex align-items-end" style="background-image: url('assets/img/posts/{{ post.img }}');">
                 <div class="meta-date text-center p-2">
                   <span class="day">{{ post.date | date: "%d" }}</span>
                   <span class="mos">{{ post.date | date: "%m" }}</span>

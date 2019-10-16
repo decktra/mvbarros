@@ -1,4 +1,4 @@
-I"X#<section class="home-slider owl-carousel">
+I"g#<section class="home-slider owl-carousel">
   <div class="slider-item" style="background-image:url(assets/img/bg_1.jpg);">
     <div class="overlay"></div>
     <div class="container">
@@ -125,7 +125,7 @@
       
         <div class="col-md-4 ftco-animate">
           <div class="blog-entry">
-              <a href="/articulos/2018/04/01/promesa-productividad-la-empresa-emergente.html" class="block-20 d-flex align-items-end" style="background-image: url('assets/img/posts/promesa-y-productividad.jpg');">
+              <a href="/articulos/2018/04/01/promesa-productividad-la-empresa-emergente.html" class="block-20 d-flex align-items-end" style="background-image: url('assets/img/posts/promesa-productividad-la-empresa-emergente.png');">
                 <div class="meta-date text-center p-2">
                   <span class="day">01</span>
                   <span class="mos">04</span>
@@ -147,7 +147,7 @@
       
         <div class="col-md-4 ftco-animate">
           <div class="blog-entry">
-              <a href="/articulos/2017/12/18/lo-peor-del-efecto.html" class="block-20 d-flex align-items-end" style="background-image: url('assets/img/posts/lo-peor-del-efecto.jpg.jpg');">
+              <a href="/articulos/2017/12/18/lo-peor-del-efecto.html" class="block-20 d-flex align-items-end" style="background-image: url('assets/img/posts/lo-peor-del-efecto.jpg');">
                 <div class="meta-date text-center p-2">
                   <span class="day">18</span>
                   <span class="mos">12</span>
