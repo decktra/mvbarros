@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Joven estudiante: ¿de quién depende tu éxito?"
+img: 'jovenes-estudiantes-quien-depende-exito.jpg'
+categories: [articulos]
+tags: [dos malvabiscos, éxito, funciones ejecutivas]
+excerpt_separator: <!--more-->
+---
+
+Esta entrada  fue pensada para jóvenes estudiantes; sin embargo, funciona para todas las personas que quieran dar un giro en los resultados de sus acciones: académicos, laborales o  familiares.
+
+<!--more-->
+
+Pensemos en el  transcurrir del tiempo y en nuestros sueños: ¿cómo te ves  dentro de 20 años?
+
+Cuando se lo pregunto a los chicos y chicas de mis talleres, la respuesta suele involucrar bienes: casas, automóviles o experiencias: viajes, salidas o relaciones ( familias, etc.)
+
+Cada uno de estos logros requieren de la capacidad de financiarse y para lograr  esta financiación  se necesita producir.
+
+Alcanzar cualquiera de estas metas  tiene un denominador común: la  educación (también está la lotería, pero sabemos que  las probabilidades de éxito  ,en este sentido, rayan en lo milagroso).
+
+El otro hilo conductor presente  para coronar cualquiera de estas metas es el esfuerzo. Difícilmente se encuentran ejemplos de grandes logros sin el correspondiente gran esfuerzo. Por ahí ruedan nombres de genios como Jobs o Gates entre otros, que no terminaron la universidad. Pero  sí suelen terminar el secundario y el tiempo libre  es para focalizar enormes energías y esfuerzo en sus invenciones o compañías emergentes.
+
+Así pues, si no tienes entre manos un hit tecnológico, seguramente tu recorrido será como el de la mayoría de los exitosos profesionales que, o bien forman parte de un excelente equipo en el área escogida o bien han decidido emprender.
+
+En la mayoría de los ejemplos la educación suma, por lo que  llevar materias a reparar o un promedio poco respetable disminuye las bases de la construcción de los sueños.
+
+Es decir, los resultados a largo plazo se forman con los resultados a corto plazo. Para muchos  adolescentes esta relación de causalidad no es tan obvia. Y si lo es, tiene  un recorrido lleno de tentaciones: muchos se dejan envolver por el magnetismo de las redes o por los juegos  electrónicos o por cualquier actividad que desplace al estudio y que provea una gratificación más inmediata.
+
+En términos psicológicos lo que se  observa en estos jóvenes  es  cómo la impulsividad le gana a la autorregulación.
+
+En este sentido, viene al caso mostrar  un antiguo pero muy interesante experimento de la universidad de Standford conocido como «la prueba del malvavisco» (Marshmallow) en el que los niños tenían la opción de comerse un malvavisco inmediantemente o dos, si lograban esperar alrededor de 15 minutos.
+
+Para un niño pequeño ese tiempo puede lucir como una eternidad teniendo el dulce frente a sus ojos. Algunos niños lo lograban y conseguían los «dos malvaviscos» otros, no. Preferían la gratificación momentánea que controlar su impulsividad para un futuro «aún más dulce».
+
+Los estudios posteriores realizados a estos mismos niños mostraron que fueron más competentes que quienes se resbalaron ante la gratificación inmediata.
+
+Queda claro que tenemos , por lo menos, un par de prerrequisitos para alcanzar mejores cosas en la vida: controlar  impulsividad y darle la bienvenida al esfuerzo.
+
+Pero ¿cómo se logra posponer la gratificación inmediata?
+
+Necesitamos fortalecer nuestras   funciones ejecutivas y así dominar las tentaciones y mantener el foco.
+
+1.- Las primeras,  memoria de trabajo y  lenguaje interior:
+
+Necesitamos tener en mente el objetivo  y verbalizarlo como pensamiento para  construir la fuerza necesaria y derrocar  la procrastinación.
+
+Pobre Felipe, el rey de la procrastinación
+
+felipe no dejes para mañana
+
+En este sentido ayuda escoger una frase impactante que te motive a mantenerte en el carril y repetirla a modo de mantra.
+
+2.La segunda, flexibilidad cognitiva:
+
+Esto es buscar soluciones novedosas, diferentes  a problemas que te aquejen con respecto a tus (malos) hábitos de estudio en este caso.
+
+Si te seduce el teléfono, esconderlo, apagarlo, desenchufarlo… múltiples alternativas hay.
+
+Por último, quiero dejarlos con una reflexión: muchos jóvenes dicen que el profesor tal o cual es muy difícil y no los motiva a estudiar para su materia.
+
+Entonces, es que acaso, ¿van a depositar la llave de su éxito en el bolsillo del profesor aburrido?

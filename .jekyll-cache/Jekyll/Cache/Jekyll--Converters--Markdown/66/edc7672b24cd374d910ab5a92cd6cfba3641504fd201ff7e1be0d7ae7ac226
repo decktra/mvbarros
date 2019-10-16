@@ -1,0 +1,71 @@
+I"�<section class="ftco-section">
+  <div class="container">
+    <div class="row d-flex">
+      <div class="col-md-6 order-md-last wrap-about align-items-stretch">
+        <div class="wrap-about-border">
+          <div class="img" style="background-image: url(/assets/img/about.jpg); border"></div>
+          <div class="text">
+            <h3>Sobre Mí</h3>
+            <p>Soy, también, esposa y mamá y disfruto escribiendo literatura infantil  e ilustrándola; este impulso creativo lo derramo a través de  microcuentos que publico frecuentemente por mi twitter: @MvBarrosDe.</p>
+            <p>Puede descargar mis libros haciendo click</p>
+            <p><a href="http://www.librosenred.com/autores/mariavirginiabarros.html" class="btn btn-primary py-3 px-4">AQUÍ</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 wrap-about pr-md-4 ftco-animate">
+        <h2 class="mb-4">Sobre Mí</h2>
+        <p>Soy María Virginia Barrós. Tengo la fortuna de haber escogido por oficio  el coaching porque la actividad que más  me agrada hacer en la vida es la de ayudar a otros a descubrir sus  objetivos y metas, reconocer sus  brechas e inquietudes, ampliar sus distinciones,  indagar sobre sus soluciones  y generar innovación  para abordar cada una de éstas con éxito.</p>
+        <p>Estoy certificada como Coach Ontológico y soy licenciada en Psicología con una Maestría en Lingüística, carreras que hacen perfecta armonía  y que han permitido que desarrolle una  alquimia propia para entender global y sistémicamente a mis coachees. Mi trabajo en el área  se inició en el espacio corporativo con el personal ejecutivo y gerencial en empresas renombradas de los sectores: financiero, telecomunicaciones, consumo masivo y otros, y  ahora se ha diversificado hacia las áreas de vida que necesite cada coachee.</p>
+        <p>También he sido profesora universitaria dictando materias de Psicología Cognitiva, Psicología de la Educación y Lingüística, lo que  fortalece mi visión del aprendizaje humano, sus giros,  obstáculos  y  formas de enfrentarlos eficientemente.</p>
+        <p>Otros cursos han añadido color a mi formación,  permitiéndome extender los horizontes: “Balanced Score Card”, “Comunicación Corporativa” y  especialmente la formación en “Inteligencia Migratoria” dictada por el Dr. Harry Czsechowicz.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="container">
+    <div class="row mb-5 pb-2">
+      <div class="col-md-12 heading-section ftco-animate">
+        <h2 class="mb-4">Empresas con  las que he tenido el privilegio de trabajar:</h2>
+      </div>
+    </div>
+    <div class="row no-gutters">
+      <div class="col-lg-4 d-flex">
+        <div class="services-2 noborder-left text-center ftco-animate">
+          <div class="mt-2 d-flex justify-content-center align-items-center">
+            <img src="/assets/img/client1.jpg" class="img-thumbnail" />
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 d-flex">
+        <div class="services-2 noborder-left text-center ftco-animate">
+          <div class="mt-2 d-flex justify-content-center align-items-center">
+            <img src="/assets/img/client2.jpg" class="img-thumbnail" />
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 d-flex">
+        <div class="services-2 noborder-left text-center ftco-animate">
+          <div class="mt-2 d-flex justify-content-center align-items-center">
+            <img src="/assets/img/client3.jpg" class="img-thumbnail" />
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 d-flex">
+        <div class="services-2 noborder-left text-center ftco-animate">
+          <div class="mt-2 d-flex justify-content-center align-items-center">
+            <img src="/assets/img/client4.jpg" class="img-thumbnail" />
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 d-flex">
+        <div class="services-2 noborder-left text-center ftco-animate">
+          <div class="mt-2 d-flex justify-content-center align-items-center">
+            <img src="/assets/img/client5.jpg" class="img-thumbnail" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+:ET

@@ -1,0 +1,107 @@
+I"�<section class="ftco-section">
+  <div class="container">
+    <div class="row justify-content-center mb-5 pb-2">
+      <div class="col-md-8 text-center heading-section ftco-animate">
+        <h2 class="mb-4">Mis Servicios</h2>
+        <p>Ofrezco 5 tipos de coaching.</p>
+      </div>
+    </div>
+    <div class="row no-gutters">
+      <div class="col-md-4 d-flex">
+        <div class="services-2 noborder-left text-center ftco-animate">
+          <div class="icon my-2 d-flex justify-content-center align-items-center">
+            <img src="/assets/img/serv1.jpg" class="img-thumbnail" />
+          </div>
+          <div class="text media-body">
+            <h3>Coaching de Vida</h3>
+            <p>La vida es un viaje.  Tiene sus cambios, sus retos y desafíos. Si  sientes  que necesitas  enfrentarlos, y no sabes cómo, es momento de buscar tu coach.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 d-flex">
+        <div class="services-2 text-center ftco-animate">
+          <div class="icon my-2 d-flex justify-content-center align-items-center">
+            <img src="/assets/img/serv2.jpg" class="img-thumbnail" />
+          </div>
+          <div class="text media-body">
+            <h3>Académico</h3>
+            <p>Dificultades en el estudio. Cierre de brechas para alcanzar  los hábitos y técnicas efectivas.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 d-flex">
+        <div class="services-2 text-center ftco-animate">
+          <div class="icon my-2 d-flex justify-content-center align-items-center">
+            <img src="/assets/img/serv3.jpg" class="img-thumbnail" />
+          </div>
+          <div class="text media-body">
+            <h3>Consulta de Pareja</h3>
+            <p>Un paso más allá en tu carrera.
+                Supera el estancamiento profesional y desarrolla tus competencias.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row no-gutters">
+      <div class="col-md-4 offset-md-2 d-flex">
+        <div class="services-2 noborder-left text-center ftco-animate">
+          <div class="icon my-2 d-flex justify-content-center align-items-center">
+            <img src="/assets/img/serv4.jpg" class="img-thumbnail" />
+          </div>
+          <div class="text media-body">
+            <h3>Pre-Migratorio</h3>
+            <p>Piensas migrar y estás en la duda. Es tiempo de clarificar. El viaje más importante que estás a punto de dar es el viaje a tu interior.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 d-flex">
+        <div class="services-2 text-center ftco-animate">
+          <div class="icon my-2 d-flex justify-content-center align-items-center">
+            <img src="/assets/img/serv5.jpg" class="img-thumbnail" />
+          </div>
+          <div class="text media-body">
+            <h3>Post-Migratorio</h3>
+            <p>La adaptación como reto.Tu corazón es como un globo. Cabe amor por tu país de origen y por tu país de destino.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container">
+  <div class="row d-flex justify-content-around ftco-animate">
+    <div class="col-md-3">
+      <div class="services text-center">
+        <div class="icon mt-2 d-flex justify-content-center align-items-center"><i class="fab fa-skype fa-2x"></i></div>
+        <div class="text media-body">
+          <p>Las sesiones son  por Skype y funcionan como si fueran presenciales.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="services text-center">
+        <div class="icon mt-2 d-flex justify-content-center align-items-center"><i class="far fa-clock fa-2x"></i></div>
+        <div class="text media-body">
+          <p>Cada sesión tiene una duración de 45min.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="services text-center">
+        <div class="icon mt-2 d-flex justify-content-center align-items-center"><i class="fab fa-share fa-2x"></i></div>
+        <div class="text media-body">
+          <p>Se sugieren por lo menos 10 sesiones para verificar avances.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="services text-center">
+        <div class="icon mt-2 d-flex justify-content-center align-items-center"><i class="fab fa-line-chart fa-2x"></i></div>
+        <div class="text media-body">
+          <p>La ventaja competitiva de este  trabajo es  la excelente  calidad a un precio alcanzable.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+:ET

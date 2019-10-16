@@ -11,7 +11,7 @@ title: "Blog"
       {% for post in site.posts %}
       <div class="col-md-6 col-lg-4 ftco-animate">
         <div class="blog-entry">
-          <a href="{{ post.url }}" class="block-20 d-flex align-items-end" style="background-image: url('assets/img/{{ post.img }}.jpg');">
+          <a href="{{ post.url }}" class="block-20 d-flex align-items-end" style="background-image: url('assets/img/posts/{{ post.img }}');">
             <div class="meta-date text-center p-2">
               <span class="day">{{ post.date | date: "%d" }}</span>
               <span class="mos">{{ post.date | date: "%m" }}</span>
@@ -24,7 +24,7 @@ title: "Blog"
             <div class="d-flex align-items-center mt-4">
               <p class="mb-0"><a href="{{ post.url }}" class="btn btn-primary">Leer más</a></p>
               <p class="ml-auto mb-0">
-                <a href="#" class="mr-2">Atenea</a>
+                <a href="#" class="mr-2">MV Barros</a>
               </p>
             </div>
           </div>

@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Deseo organizarme para estudiar y ¡no sé cómo!"
+img: 'el-estudio-como-reto.jpg'
+categories: [articulos]
+tags: []
+excerpt_separator: <!--more-->
+---
+
+Hay dos aspectos básicos relacionados con el estudio: la disciplina (conductas de planificación, orden y foco)  y la comprensión de lo que se estudia.
+
+<!--more-->
+
+Hoy veremos   la disciplina autorregulada  en el ambiente académico, como pieza  esencial para el éxito.
+
+La disciplina académica es la misma que debe tener un chef en su cocina.
+
+1.- Materiales  a la mano:
+¿Cómo va a ir el chef a su cocina sin sus implementos? -Ya va, se me quedó el delantal. O el recetario, o la computadora para buscar el recetario…nada de comida a tiempo.
+
+Todo a la mano es el primer paso. Si el estudiante va al aula sin los materiales que necesita, no podrá encender el motor de la eficiencia. La buena noticia es que esto es lo más fácil de dominar, un asunto de foco y voluntad.
+
+Pensar y planificar  lo que se requiere y recolectarlo lo noche antes de ir a clases.  Todo lo necesario: libros, guías, lápices, bolígrafos, resaltadores, sacapuntas, cuadernos, hojas, etc. y/o  Ipad, computadores,  señales de wifi y con suficiente batería  o cables de carga, etc.
+
+2.-Atención prestada en clase:
+Foco en lo que  dice el profesor. Si un cocinero sigue a un chef por TV y conversa con un amigo  mientras éste da los ingredientes y dice la temperatura del horno,  el resultado de su plato será mediocre. Así, para el estudiante, saber cuál es el contexto de la clase: títulos, temas, objetivos, etc. y estar pendiente de aquello en lo que el docente pone énfasis durante su exposición,  es parte esencial para un excelente rendimiento académico.
+
+Controlar los distractores es clave.  El teléfono es el principal vampirizador de la atención: chats, chats  y chats. A apagar el teléfono, aunque duela como  arrancarse una bandita.
+
+La siguiente app puede ser una aliada: Selfcontrol.
+Si el asunto que  distrae es un pensamiento que te da vueltas en la cabeza,  existen técnicas que pueden ser trabajadas en  consulta con a un especialista en el área.
+
+3.-Copia y seguimiento de instrucciones:
+Sin un buen cuaderno para anotar las recetas y las notas únicas,  el cocinero quien nos ocupa, perderá en una memoria sobrecargada, el toque de sabor.
+
+Igualmente,  el estudiante que quiere sobresalir, no sólo  presta atención a lo que  dice el docente (instrucciones)  sino que las apunta.
+
+Las apps recomendadas  son: Onenote, Evernote.
+4.- Vaciado en calendarios:
+Esta actividad es prima de la anterior. La memoria no es un archivo, abarrotar inútilmente a la memoria hace que los estudiantes incumplan y que, por ende, el rendimiento decaiga.
+
+Se necesita anotar fechas exactas de pruebas, entregas, etc.
+
+Las apps  que facilitan este paso:  Myhomework,  Time Table.
+
+Imagen: recuperada de: https://almaleonor.wordpress.com/2016/02/15/albert-einstein/.

@@ -1,0 +1,173 @@
+I"�"<section class="home-slider owl-carousel">
+  <div class="slider-item" style="background-image:url(assets/img/bg_1.jpg);">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
+        <div class="col-md-7 ftco-animate">
+          <span class="subheading">Coaching sin Fronteras</span>
+          <h1 class="mb-4">Promueve tu desarrollo</h1>
+          <p><a href="servicios.html" class="btn btn-primary px-4 py-3 mt-3">Conócenos</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="slider-item" style="background-image:url(assets/img/bg_2.jpg);">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
+        <div class="col-md-7 ftco-animate">
+          <span class="subheading">Coaching sin Fronteras</span>
+          <h1 class="mb-4">Tu impulso es mi objetivo</h1>
+          <p><a href="servicios.html" class="btn btn-primary px-4 py-3 mt-3">Nuestros servicios</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container mt-5">
+  <div class="row d-flex justify-content-around ftco-animate">
+    <div class="col-md-3">
+      <div class="services text-center">
+        <div class="icon mt-2 d-flex justify-content-center align-items-center"><i class="fas fa-suitcase fa-2x"></i></div>
+        <div class="text media-body">
+          <h3>Migratorio</h3>
+          <p>Piensas migrar y estás en la duda o ya lo hiciste y necesitas adaptarte</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="services text-center">
+        <div class="icon mt-2 d-flex justify-content-center align-items-center"><i class="fas fa-thumbs-up fa-2x"></i></div>
+        <div class="text media-body">
+          <h3>De Vida</h3>
+          <p>La vida es un viaje. Tiene sus cambios, sus retos y desafíos</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="services text-center">
+        <div class="icon mt-2 d-flex justify-content-center align-items-center"><i class="fas fa-sitemap fa-2x"></i></div>
+        <div class="text media-body">
+          <h3>Ejecutivo</h3>
+          <p>Un paso más allá en tu carrera</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="services text-center">
+        <div class="icon mt-2 d-flex justify-content-center align-items-center"><i class="fas fa-graduation-cap fa-2x"></i></div>
+        <div class="text media-body">
+          <h3>Académico</h3>
+          <p>Dificultades en el estudio. Cierre de brechas para alcanzar los hábitos y técnicas efectivas.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<section class="ftco-section">
+  <div class="container">
+    <div class="row d-flex">
+      <div class="col-md-5 wrap-about align-items-stretch">
+        <div class="wrap-about-border">
+          <div class="img" style="background-image: url(/assets/img/sobre-mi.jpg); border"></div>
+        </div>
+      </div>
+      <div class="col-md-7 wrap-about pr-md-4 ftco-animate">
+        <h2 class="mb-4">Conoce un poco sobre mí, tu coach</h2>
+        <p>Soy María Virginia Barrós. Tengo la fortuna de haber escogido por oficio el coaching porque la actividad que más me agrada hacer en la vida es la de ayudar a otros a descubrir sus objetivos y metas, reconocer sus brechas e inquietudes, ampliar sus distinciones, indagar sobre sus soluciones y generar innovación para abordar cada una de éstas con éxito.</p>
+        <p>Estoy certificada como Coach Ontológico y soy licenciada en Psicología con un Maestría en Lingüística, carreras que hacen perfecta armonía y que han permitido que desarrolle una alquimia propia para entender global y sistémicamente a mis coachees. Mi trabajo en el área se inició en el espacio corporativo con el personal ejecutivo y gerencial en empresas renombradas de los sectores: financiero, telecomunicaciones, consumo masivo y otros, y ahora se ha diversificado hacia las áreas de vida que necesite cada coachee.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="ftco-intro ftco-no-pb img" style="background-image: url(assets/img/bg_1.jpg);">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-9 col-md-8 d-flex align-items-center heading-section heading-section-white ftco-animate">
+        <h2 class="mb-3 mb-md-0">Si desea más información, visite nuestra página de contacto.</h2>
+      </div>
+      <div class="col-lg-3 col-md-4 ftco-animate">
+        <p class="mb-0"><a href="contacto.html" class="btn btn-white py-3 px-4">CONTACTO</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="ftco-section bg-light">
+  <div class="container">
+    <div class="row justify-content-center mb-5 pb-2">
+      <div class="col-md-8 text-center heading-section ftco-animate">
+        <h2 class="mb-4"><span>Últimas</span> Publicaciones</h2>
+      </div>
+    </div>
+    <div class="row">
+      
+        <div class="col-md-4 ftco-animate">
+          <div class="blog-entry">
+              <a href="/articulos/2019/04/07/tres-famosos-consejos.html" class="block-20 d-flex align-items-end" style="background-image: url('assets/img/posts/tres-famosos-consejos.jpg');">
+                <div class="meta-date text-center p-2">
+                  <span class="day">07</span>
+                  <span class="mos">04</span>
+                  <span class="yr">2019</span>
+                </div>
+              </a>
+              <div class="text bg-white p-4">
+                <h3 class="heading"><a href="/articulos/2019/04/07/tres-famosos-consejos.html">Tres Famosos Consejos que merecen cambiar frente a la tristeza ajena</a></h3>
+                <p>La siguiente es una nota que busca revisar las formas de relacionarnos con personas a quienes queremos y que están pasando por momentos t...</p>
+                <div class="d-flex align-items-center mt-4">
+                  <p class="mb-0"><a href="/articulos/2019/04/07/tres-famosos-consejos.html" class="btn btn-primary">Leer más</a></p>
+                  <p class="ml-auto mb-0">
+                    <a href="#" class="mr-2">Atenea</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+        </div>
+      
+        <div class="col-md-4 ftco-animate">
+          <div class="blog-entry">
+              <a href="/articulos/2018/04/01/promesa-y-productividad.html" class="block-20 d-flex align-items-end" style="background-image: url('assets/img/posts/ambiente-erotico.jpg');">
+                <div class="meta-date text-center p-2">
+                  <span class="day">01</span>
+                  <span class="mos">04</span>
+                  <span class="yr">2018</span>
+                </div>
+              </a>
+              <div class="text bg-white p-4">
+                <h3 class="heading"><a href="/articulos/2018/04/01/promesa-y-productividad.html">Ambiente Erótico</a></h3>
+                <p>En ocasiones, cuando un encuentro erótico no resulta satisfactorio para una de las dos personas, se tiende a rechazar cualquier oportunid...</p>
+                <div class="d-flex align-items-center mt-4">
+                  <p class="mb-0"><a href="/articulos/2018/04/01/promesa-y-productividad.html" class="btn btn-primary">Leer más</a></p>
+                  <p class="ml-auto mb-0">
+                    <a href="#" class="mr-2">Atenea</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+        </div>
+      
+        <div class="col-md-4 ftco-animate">
+          <div class="blog-entry">
+              <a href="/articulos/2016/01/09/ambiente-erotico.html" class="block-20 d-flex align-items-end" style="background-image: url('assets/img/posts/ambiente-erotico.jpg');">
+                <div class="meta-date text-center p-2">
+                  <span class="day">09</span>
+                  <span class="mos">01</span>
+                  <span class="yr">2016</span>
+                </div>
+              </a>
+              <div class="text bg-white p-4">
+                <h3 class="heading"><a href="/articulos/2016/01/09/ambiente-erotico.html">Ambiente Erótico</a></h3>
+                <p>En ocasiones, cuando un encuentro erótico no resulta satisfactorio para una de las dos personas, se tiende a rechazar cualquier oportunid...</p>
+                <div class="d-flex align-items-center mt-4">
+                  <p class="mb-0"><a href="/articulos/2016/01/09/ambiente-erotico.html" class="btn btn-primary">Leer más</a></p>
+                  <p class="ml-auto mb-0">
+                    <a href="#" class="mr-2">Atenea</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+        </div>
+      
+    </div>
+  </div>
+</section>
+:ET
