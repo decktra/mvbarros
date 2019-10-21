@@ -1,21 +1,15 @@
-I"¦<section class="ftco-section contact-section">
+I"±<section class="ftco-section contact-section">
   <div class="container">
     <div class="row d-flex contact-info justify-content-center">
       <div class="col-md-8">
         <div class="row mb-5">
-          <div class="col-md-4 text-center py-4">
+          <div class="col-md-6 text-center py-4">
             <div class="icon">
               <i class="fas fa-map-pin fa-3x"></i>
             </div>
             <p><span>Address:</span> Caracas, Venezuela</p>
           </div>
-          <div class="col-md-4 text-center border-height py-4">
-            <div class="icon">
-              <i class="fas fa-phone fa-3x"></i>
-            </div>
-            <p><span>Phone:</span> <a href="tel://+123"></a></p>
-          </div>
-          <div class="col-md-4 text-center py-4">
+          <div class="col-md-6 text-center py-4">
             <div class="icon">
               <i class="fas fa-envelope fa-3x"></i>
             </div>

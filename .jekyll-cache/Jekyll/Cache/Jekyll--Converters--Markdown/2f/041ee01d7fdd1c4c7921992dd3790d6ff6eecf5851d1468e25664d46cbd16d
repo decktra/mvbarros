@@ -1,15 +1,21 @@
-<section class="ftco-section contact-section">
+I"�<section class="ftco-section contact-section">
   <div class="container">
     <div class="row d-flex contact-info justify-content-center">
       <div class="col-md-8">
         <div class="row mb-5">
-          <div class="col-md-6 text-center py-4 border-height">
+          <div class="col-md-4 text-center py-4">
             <div class="icon">
               <i class="fas fa-map-pin fa-3x"></i>
             </div>
             <p><span>Address:</span> Caracas, Venezuela</p>
           </div>
-          <div class="col-md-6 text-center py-4 border-height">
+          <div class="col-md-4 text-center border-height py-4">
+            <div class="icon">
+              <i class="fas fa-phone fa-3x"></i>
+            </div>
+            <p><span>Phone:</span> <a href="tel://+123">+58-55555555</a></p>
+          </div>
+          <div class="col-md-4 text-center py-4">
             <div class="icon">
               <i class="fas fa-envelope fa-3x"></i>
             </div>
@@ -20,7 +26,7 @@
     </div>
     <div class="row block-9 d-flex justify-content-center">
       <div class="col-md-4">
-        <img src="/assets/img/skype.png" class="mx-auto d-block" height="200px">
+        <img src="/assets/img/skype.png" class="mx-auto d-block" height="200px" />
       </div>
       <div class="col-md-8 d-flex align-items-center">
         <h2 class="text-center m-0">Las sesiones son  por Skype y funcionan como si fueran presenciales, tienen una duración de 45 minutos y pueden ser solicitadas a través del formulario de contacto.</h2>
@@ -28,3 +34,4 @@
     </div>
   </div>
 </section>
+:ET
