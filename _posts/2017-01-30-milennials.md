@@ -7,7 +7,7 @@ tags: [Millennials, redes sociales, relaciones humanas, retos]
 excerpt_separator: <!--more-->
 ---
 
-En mis redes, el vídeo de los Millennials del fantástico Simon Sinek ha tenido un efecto telúrico. Ayer, por cierto, vimos La, La, Land. Otro efecto telúrico. ¿Cuántas nominaciones lleva ya? ¿Qué falla de San Andrés recorre estos dos terremotos? (No quería nombrar lo interesante de Sinek y Gosling para el público femenino pero, la verdad, es que no hacerlo es casi, casi mentir por omisión). Sin embargo, apartando esa dulce sal que adereza el fenómeno, lo cierto es que en ambos casos se observa un claro ejemplo de lo emocionalmente fuerte que es sentirse identificado con alguien.
+En mis redes, el vídeo de los Millennials del fantástico Simon Sinek ha tenido un efecto telúrico. Ayer, por cierto, vimos La, La, Land. Otro efecto telúrico. ¿Cuántas nominaciones lleva ya? ¿Qué falla de San Andrés recorre estos dos terremotos? Pareciera un claro ejemplo de lo emocionalmente fuerte que es sentirse identificado con alguien.
 
 <!--more-->
 
